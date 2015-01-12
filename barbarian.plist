@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://lingoer.github.io/icon57.png</string>
+					<string>http://lingoer.github.io/OTA/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://lingoer.github.io/icon512.png</string>
+					<string>http://lingoer.github.io/OTA/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
