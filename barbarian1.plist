@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>http://10.17.7.27:8080/job/TROS-APP-IOS-JINGBAO/lastSuccessfulBuild/artifact/platforms/ios/build/Release-iphoneos/barbarian.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://lingoer.github.io/icon57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://lingoer.github.io/icon512.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -38,8 +22,6 @@
 				<string>0.2.1</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>ThoughtWorks</string>
 				<key>title</key>
 				<string>镜爆眼镜</string>
 			</dict>
